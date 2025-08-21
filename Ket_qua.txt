@@ -1,0 +1,5 @@
+===========================THONG TIN DIEU HOA===========================
+Thu tu                 Ten           Cong suat           Gia thanh
+   1                     a                 234                   4
+   2                     v                 234                   4
+====>Hai dieu hoa nay khong co cung thong so.
